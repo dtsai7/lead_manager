@@ -1,5 +1,6 @@
 {
     "python.pythonPath": "/Users/David_Tsai/.local/share/virtualenvs/lead_manager-46bRFsyp/bin/python",
+    "git.ignoreLimitWarning": true,
 
     //"python.jediEnabled": false,
 }
